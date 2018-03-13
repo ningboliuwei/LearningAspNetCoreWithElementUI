@@ -1,0 +1,11 @@
+C:\GitHub\LearningAspNetCoreWithElementUI\bin\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.deps.json
+C:\GitHub\LearningAspNetCoreWithElementUI\bin\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.runtimeconfig.json
+C:\GitHub\LearningAspNetCoreWithElementUI\bin\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.runtimeconfig.dev.json
+C:\GitHub\LearningAspNetCoreWithElementUI\bin\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.dll
+C:\GitHub\LearningAspNetCoreWithElementUI\bin\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.pdb
+C:\GitHub\LearningAspNetCoreWithElementUI\obj\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.csprojResolveAssemblyReference.cache
+C:\GitHub\LearningAspNetCoreWithElementUI\obj\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.csproj.CoreCompileInputs.cache
+C:\GitHub\LearningAspNetCoreWithElementUI\obj\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.AssemblyInfoInputs.cache
+C:\GitHub\LearningAspNetCoreWithElementUI\obj\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.AssemblyInfo.cs
+C:\GitHub\LearningAspNetCoreWithElementUI\obj\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.dll
+C:\GitHub\LearningAspNetCoreWithElementUI\obj\Debug\netcoreapp2.0\LearningAspNetCoreWithElementUI.pdb
